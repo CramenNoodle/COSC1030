@@ -34,8 +34,8 @@ int main()
 		<< " and " << secondNumber << endl;
 
 	// Now we will swap the values.
-	swap = firstNumber; // assigning swap to the firstNumber variable 
-	firstNumber = secondNumber; // assigning firstNumber to the secondNumber variable
+	swap = firstNumber; // Assigning firstNumber to swap the firstNumber variable.
+	firstNumber = secondNumber; // assigning firstNumber to the secondNumber variable.
 	secondNumber = swap; // assigning second number to the swap variable
 
 	// Output the values.
