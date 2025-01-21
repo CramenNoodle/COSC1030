@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Carmen Grajeda
+// 1/25/2025
 // Fix the Errors #3 Programming Project
 // COSC 1030
 //
