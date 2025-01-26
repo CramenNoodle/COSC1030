@@ -5,6 +5,8 @@
 // COSC 1030
 //
 
+// This program calculates the the customers total bill after the tax and the tip.
+
 // Variable declarations
 double meal = 88.67; // Variable for customers meal cost
 double subtotal = 0; // Variable for tax and meal combined
