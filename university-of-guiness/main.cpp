@@ -43,7 +43,7 @@ int main()
     else
     {
         cout<< "Invalid input. Please enter 'I' or 'O'.\n"; // If there is an error
-        return 1; // Close the program with invalid input
+        return 0;
     }
 
     // Get the user's room and board requirement 
@@ -63,7 +63,7 @@ int main()
     else
     {
         cout<< "Invalid input. Please enter 'Y' or 'N'.\n"; // if there is an error
-        return 1; // Close the program if there is invalid input
+        return 0;
     }
 
     // Display the students total cost
