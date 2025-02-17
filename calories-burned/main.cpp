@@ -7,7 +7,7 @@
 
 /* This program uses a loop to display
 the number of calories burned after
-10,15,20,25, and 30 minutes*/
+5,10,15,20,25, and 30 minutes*/
 
 #include <iostream>
 using namespace std;
@@ -21,7 +21,7 @@ int main()
     double calories; // Calories burned 
 
     // for loop to initialize and perform the calculation 
-    for (minutes = 10; minutes <= 30; minutes += 5)
+    for (minutes = 5; minutes <= 30; minutes += 5)
     {
         calories = minutes * CALS_PER_MINUTE;
         cout << "After " << minutes << " minutes you burned "
