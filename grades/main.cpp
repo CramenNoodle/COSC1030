@@ -19,7 +19,6 @@ on a 10-point scale.
 using namespace std;
 
 // Function prototype 
-
 void calculateAverageGrades(int sum, int count, double &average);
 
 int main()
