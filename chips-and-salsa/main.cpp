@@ -68,6 +68,11 @@ int main()
     return 0;
 }
 
+/*      getSales
+Gets the number of jars of each salsa type sold from 
+the user. The names array parameter holds the names of 
+the salsas, and the sales array parameter will hold
+the numbers sold of each correspoinding type of salsa*/
 void getSales(string names[], int sales[], int size)
 {
     for (int type = 0; type < size; type++)
