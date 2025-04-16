@@ -64,8 +64,8 @@ void getSales(double*arr, int size)
 {
     for(int count = 0; count < size; count++)
     {
-        cout << "Enter the sales for the month ";
-        cout << (count + 1 ) << ":";
+        cout << "Enter the sales for month ";
+        cout << (count + 1 ) << ": ";
         cin >> arr[count];
     }
 }
